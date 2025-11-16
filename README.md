@@ -1,5 +1,5 @@
 # algorithm
-## 포함된 Repository 목록
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=50h33)](https://solved.ac/50h33)
 | Category | Repository |
 |---------|------------|
 | 인프런 강의 | [`algorithm-cpp-bigstone`](./algorithm-cpp-bigstone) |
@@ -7,4 +7,4 @@
 | 이니로 멘토링 | [`algorithm-cpp-inyro`](./algorithm-cpp-inyro) |
 | 학교 수업 | [`algorithm-cpp-mkh`](./algorithm-cpp-mkh) |
 | 연습 문제 | [`algorithm-cpp-practice`](./algorithm-cpp-practice) |
-| 삼성 기출 | [`algorithm-cpp-samsung`](./algorithm-cpp-samsung) |
+| 삼성 기출 | [`algorithm-cpp-samsung`](./algorithm-cpp-samsung) |​
