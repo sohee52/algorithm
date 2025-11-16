@@ -21,3 +21,7 @@
 [submodule "algorithm-cpp-bigstone"]
 	path = algorithm-cpp-bigstone
 	url = https://github.com/sohee52/algorithm-cpp-bigstone.git
+[submodule "algorithm-java"]
+	path = algorithm-java
+	url = https://github.com/sohee52/algorithm-java.git
+	branch = main
