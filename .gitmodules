@@ -13,3 +13,6 @@
 [submodule "algorithm-cpp-practice"]
 	path = algorithm-cpp-practice
 	url = https://github.com/sohee52/algorithm-cpp-practice.git
+[submodule "algorithm-cpp-bigstone"]
+	path = algorithm-cpp-bigstone
+	url = https://github.com/sohee52/algorithm-cpp-bigstone.git
