@@ -1,3 +1,15 @@
 [submodule "algorithm-cpp-samsung"]
 	path = algorithm-cpp-samsung
 	url = https://github.com/sohee52/algorithm-cpp-samsung.git
+[submodule "algorithm-cpp-boj"]
+	path = algorithm-cpp-boj
+	url = https://github.com/sohee52/algorithm-cpp-boj.git
+[submodule "algorithm-cpp-inyro"]
+	path = algorithm-cpp-inyro
+	url = https://github.com/sohee52/algorithm-cpp-inyro.git
+[submodule "algorithm-cpp-mkh"]
+	path = algorithm-cpp-mkh
+	url = https://github.com/sohee52/algorithm-cpp-mkh.git
+[submodule "algorithm-cpp-practice"]
+	path = algorithm-cpp-practice
+	url = https://github.com/sohee52/algorithm-cpp-practice.git
